@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+numpy
+pandas
+scikit-learn
+joblib
+torch
+torchvision
+sentence-transformers
+ftfy
+regex
+tqdm
